@@ -1,0 +1,25 @@
+body {
+	font-family: 'Lobster', cursive;
+	margin: 0;
+	padding: 0;
+}
+
+.mctitle{
+	text-align:center;
+	 /*text center*/                                                     
+}
+
+/*.link{
+
+}*/
+
+footer {
+	text-align: center;
+	border-top: ;
+    background-color:#2d2826;
+    color: white;
+    max-height: 200px;
+    min-height: 100px;
+     position: relative;
+}
+
